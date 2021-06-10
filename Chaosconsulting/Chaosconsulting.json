@@ -118,7 +118,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Floor0\/floor0.json"
+                 "value":"..\/2nd_map\/2nd_map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
